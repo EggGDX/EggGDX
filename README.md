@@ -1,5 +1,4 @@
-# 👋 Egg | M.S. Student @ Guangdong University of Technology
-
+## 🎓 Egg | M.S. Student @ Guangdong University of Technology
 ## 🎯 Research Focus
 专注于**文档智能处理📄**领域的技术研究与工程实现，核心方向包括：
 - 文档检测（Document Detection）
